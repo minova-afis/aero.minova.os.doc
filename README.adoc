@@ -14,5 +14,4 @@
 ## Infrastruktur
 
 * link:https://github.com/minova-afis/aero.minova.rcp.updatesite[p2-Repository für WFC]
-* link:https://github.com/orgs/minova-afis/packages[m2-Repository]
 * link:https://hub.docker.com/u/minova[Public Docker Registry]
