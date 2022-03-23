@@ -1,1 +1,1 @@
-# Minova Open Source Documentation
+# Minova Open Source Dokumentation
