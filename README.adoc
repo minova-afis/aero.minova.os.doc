@@ -1,0 +1,18 @@
+++++
+<a href="https://www.minova.de/" >
+<img src="https://www.minova.de/files/Minova/Ueber_uns/minova-logo-105.svg" alt="logo" align="right"/>
+</a>
+++++
+
+# Minova Open Source Dokumentation
+
+## Dienste, Programme und Standards
+* link:https://github.com/minova-afis/aero.minova.core.application.system[CAS] - Schnittstelle zu Daten und Prozeduren
+* link:https://github.com/minova-afis/aero.minova.rcp[WFC] - Der Standard RCP Fatclient von MINOVA
+* link:https://github.com/minova-afis/aero.minova.xsd[XSD] - Öffentliche XML-Schemata
+
+## Infrastruktur
+
+* link:https://github.com/minova-afis/aero.minova.rcp.updatesite[p2-Repository für WFC]
+* link:https://github.com/orgs/minova-afis/packages[m2-Repository]
+* link:https://hub.docker.com/u/minova[Public Docker Registry]

@@ -1,1 +1,0 @@
-# Minova Open Source Dokumentation
