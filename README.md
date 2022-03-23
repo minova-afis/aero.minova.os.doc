@@ -1,2 +1,1 @@
-# aero.minova.os.doc
-Minova Open Source Documentation
+# Minova Open Source Documentation
