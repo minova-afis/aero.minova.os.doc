@@ -6,6 +6,8 @@
 
 # Minova Open Source Dokumentation
 
+**Öffentliche Projekte sollten keinerlei Verweise oder Infos bezüglich der internen Infrastruktur der Minova beinhalten.**
+
 ## Dienste, Programme und Standards
 * link:https://github.com/minova-afis/aero.minova.core.application.system[CAS] - Schnittstelle zu Daten und Prozeduren
 * link:https://github.com/minova-afis/aero.minova.rcp[WFC] - Der Standard RCP Fatclient von MINOVA
