@@ -9,6 +9,23 @@
 **Öffentliche Projekte sollten keinerlei Verweise oder Infos bezüglich der internen Infrastruktur der Minova beinhalten.**
 
 ## Dienste, Programme und Standards
+
+[plantuml, format="svg"]
+.PlantUML-Übersicht.
+....
+@startuml
+[WFC] --> [CAS]: Login und Anfragen
+User ..> [WFC]
+[CAS] .right.> AD: lesend
+[CAS] --> [Resourcen]
+[Resourcen] --> [Dateisystem]
+[Resourcen] --> [SQL-Datenbank]
+[CAS] .left.> [Erweiterungen]
+[Erweiterungen] .left.> Dienste
+[Erweiterungen] ..> [Resourcen]
+@enduml
+....
+
 * link:https://github.com/minova-afis/aero.minova.core.application.system[CAS] - Schnittstelle zu Daten und Prozeduren
 * link:https://github.com/minova-afis/aero.minova.rcp[WFC] - Der Standard RCP Fatclient von MINOVA
 * link:https://github.com/minova-afis/aero.minova.xsd[XSD] - Öffentliche XML-Schemata
