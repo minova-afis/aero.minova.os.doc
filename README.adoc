@@ -14,8 +14,10 @@
 .PlantUML-Übersicht.
 ....
 @startuml
-[WFC] --> [CAS]: Login und Anfragen
+User ..> [Web-App]
 User ..> [WFC]
+[Web-App] --> [CAS]
+[WFC] --> [CAS]: Login und Anfragen
 [CAS] .right.> AD: lesend
 [CAS] --> [Resourcen]
 [Resourcen] --> [Dateisystem]
