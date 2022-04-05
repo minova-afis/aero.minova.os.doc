@@ -11,7 +11,7 @@
 ## Dienste, Programme und Standards
 
 [plantuml, format="svg"]
-.PlantUML-Übersicht.
+.PlantUML-Übersicht
 ....
 @startuml
 User ..> [Web-App]
