@@ -20,9 +20,7 @@ User ..> [WFC]
 [WFC] --> [CAS]: Login und Anfragen
 [CAS] .right.> AD: lesend
 [CAS] --> [App-Projekt]
-[CAS] --> [Dateisystem]
 [CAS] .left.> [Erweiterungen]
-[CAS] --> [SQL-Datenbank]
 [Erweiterungen] .left.> Dienste
 @enduml
 ....
