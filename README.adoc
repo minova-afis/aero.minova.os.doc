@@ -19,12 +19,11 @@ User ..> [WFC]
 [Web-App] --> [CAS]
 [WFC] --> [CAS]: Login und Anfragen
 [CAS] .right.> AD: lesend
-[CAS] --> [Resourcen]
-[Resourcen] --> [Dateisystem]
-[Resourcen] --> [SQL-Datenbank]
+[CAS] --> [App-Projekt]
+[CAS] --> [Dateisystem]
 [CAS] .left.> [Erweiterungen]
+[CAS] --> [SQL-Datenbank]
 [Erweiterungen] .left.> Dienste
-[Erweiterungen] ..> [Resourcen]
 @enduml
 ....
 
