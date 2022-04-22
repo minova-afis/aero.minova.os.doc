@@ -10,6 +10,7 @@
 
 Es wird zur Visualisierung PlantUML verwendet.
 Um dies im Browser auf Github anzuzeigen, sind entsprechende Addons hilfreich:
+
 * link:https://addons.mozilla.org/de/firefox/addon/plantuml-visualizer/[PlantUML Visualizer für Firefox]
 * link:https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj[PlantUML Viewer für Chrome]
 
