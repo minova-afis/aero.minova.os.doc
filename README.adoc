@@ -6,7 +6,9 @@
 
 # Minova Open Source Dokumentation
 
-**Öffentliche Projekte sollten keinerlei Verweise oder Infos bezüglich der internen Infrastruktur der Minova beinhalten.**
+* **Zur Zeit lassen sich einige Projekte nicht bauen, da einige Abhängigkeiten privat sind. Siehe #1.**
+
+* **Öffentliche Projekte sollten keinerlei Verweise oder Infos bezüglich der internen Infrastruktur der Minova beinhalten.**
 
 Es wird zur Visualisierung PlantUML verwendet.
 Um dies im Browser auf Github anzuzeigen, sind entsprechende Addons hilfreich:
