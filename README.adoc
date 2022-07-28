@@ -36,6 +36,7 @@ User ..> [WFC]
 * link:https://github.com/minova-afis/aero.minova.core.application.system[CAS] - Schnittstelle zu Daten und Prozeduren
 * link:https://github.com/minova-afis/aero.minova.rcp[WFC] - Der Standard RCP Fatclient von MINOVA
 * link:https://github.com/minova-afis/aero.minova.xsd[XSD] - Öffentliche XML-Schemata
+* link:https://github.com/minova-afis/aero.minova.os.build[OS Build] - Baut alle OS-Projekte
 
 ## Infrastruktur
 
