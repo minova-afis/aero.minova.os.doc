@@ -26,8 +26,8 @@ flowchart LR
 * [CAS](https://github.com/minova-afis/aero.minova.core.application.system) - Schnittstelle zu Daten und Prozeduren
 * [WFC](https://github.com/minova-afis/aero.minova.rcp) - Der Standard RCP Fatclient von MINOVA
 * [XSD](https://github.com/minova-afis/aero.minova.xsd) - Öffentliche XML-Schemata
-* [OS-Build](https://github.com/minova-afis/aero.minova.os.build) - Baut alle OS-Projekte
-* [Maven-Parent](https://github.com/minova-afis/aero.minova.maven.parent) - Grundkonfiguration für alle Maven-Projekte
+* [Open-Source-Workflows]([https://github.com/minova-afis/aero.minova.os.build](https://github.com/minova-afis/aero.minova.os.github.workflows)) - Baut alle Projekte
+* [Maven-Parent](https://github.com/minova-afis/aero.minova.os.maven.parent) - Grundkonfiguration für open source Maven-Projekte
 
 ## Infrastruktur
 
