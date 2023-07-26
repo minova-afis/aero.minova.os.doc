@@ -4,7 +4,7 @@
 
 # Minova Open Source Dokumentation
 
-* **Zur Zeit lassen sich einige Projekte nicht bauen, da einige Abhängigkeiten privat sind. Siehe link:https://github.com/minova-afis/aero.minova.os.doc/issues/1[#1].**
+* **Zur Zeit lassen sich einige Projekte nicht bauen, da einige Abhängigkeiten privat sind. Siehe link:[#1](https://github.com/minova-afis/aero.minova.os.doc/issues/1).**
 
 * **Öffentliche Projekte sollten keinerlei Verweise oder Infos bezüglich der internen Infrastruktur der Minova beinhalten.**
 
